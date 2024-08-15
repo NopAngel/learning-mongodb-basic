@@ -1,4 +1,4 @@
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://webimages.mongodb.com/_com_assets/cms/kuztefjfmcr54smwt-Meta_Blogs.png "a title")
 
 # Welcome to the ULTIMATE GUIDE TO MONGOSH👻
 
