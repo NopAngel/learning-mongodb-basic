@@ -1,5 +1,4 @@
 
-<img src="https://webimages.mongodb.com/_com_assets/cms/kuztefjfmcr54smwt-Meta_Blogs.png' />
 
 # Welcome to the ULTIMATE GUIDE TO MONGOSH👻
 
@@ -13,3 +12,6 @@ since it is one of the languages ​​that this Database uses the most.
 By learning this database, you will learn one of the best databases in history 🫣
 
 ### Ready to learn? Let's get started🚀
+
+
+<img src="https://webimages.mongodb.com/_com_assets/cms/kuztefjfmcr54smwt-Meta_Blogs.png' />
