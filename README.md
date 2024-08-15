@@ -17,22 +17,22 @@ By learning this database, you will learn one of the best databases in history ð
 <div>
 
 
-<a href="/learn_japan.md">
+<a href="https://github.com/NopAngel/learning-mongodb-basic/blob/main/learn_japan.md">
 
-![Alt text](https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/BJYRKVUOHBEBZJBHIP5Q5UR5FA.png "a title")
-
-</a>
-
-<a href="/learn_english.md">
-
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg "a title")
+<img src="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/BJYRKVUOHBEBZJBHIP5Q5UR5FA.png" width="30px" />
 
 </a>
 
+<a href="https://github.com/NopAngel/learning-mongodb-basic/blob/main/main_english.md">
 
-<a href="/learn_spanish.md">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="30px" />
 
-![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppXl-ZIvI_UyoPxBO2DFLRhqXRJivQZncCEX8ItjZPU8Wj0byj1JWtS069PU&s=10 "a title")
+</a>
+
+
+<a href="https://github.com/NopAngel/learning-mongodb-basic/blob/main/main_spanish.md">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppXl-ZIvI_UyoPxBO2DFLRhqXRJivQZncCEX8ItjZPU8Wj0byj1JWtS069PU&s=10" width="30px" />
 
 </a>
 
