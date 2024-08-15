@@ -1,4 +1,5 @@
-(https://webimages.mongodb.com/_com_assets/cms/kuztefjfmcr54smwt-Meta_Blogs.png)
+[https://webimages.mongodb.com/_com_assets/cms/kuztefjfmcr54smwt-Meta_Blogs.png]
+
 # Welcome to the ULTIMATE GUIDE TO MONGOSH👻
 
 Here you will see very simple MongoSH commands, where you can understand what Mongo is like or how it works
