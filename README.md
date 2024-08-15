@@ -1,4 +1,4 @@
-[https://webimages.mongodb.com/_com_assets/cms/kuztefjfmcr54smwt-Meta_Blogs.png]
+<img src="https://webimages.mongodb.com/_com_assets/cms/kuztefjfmcr54smwt-Meta_Blogs.png' />
 
 # Welcome to the ULTIMATE GUIDE TO MONGOSH👻
 
