@@ -1,0 +1,3 @@
+face = ":D"
+
+print(face)
