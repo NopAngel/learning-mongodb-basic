@@ -1,4 +1,4 @@
-
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 # Welcome to the ULTIMATE GUIDE TO MONGOSH👻
 
@@ -13,5 +13,3 @@ By learning this database, you will learn one of the best databases in history �
 
 ### Ready to learn? Let's get started🚀
 
-
-<img src="https://webimages.mongodb.com/_com_assets/cms/kuztefjfmcr54smwt-Meta_Blogs.png' />
