@@ -11,5 +11,31 @@ attractive and very comfortable to use, it is very well known thanks to Javascri
 since it is one of the languages ​​that this Database uses the most. 
 By learning this database, you will learn one of the best databases in history 🫣
 
+
 ### Ready to learn? Let's get started🚀
 
+<div>
+
+
+<a href="/learn_japan.md">
+
+![Alt text](https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/BJYRKVUOHBEBZJBHIP5Q5UR5FA.png "a title")
+
+</a>
+
+<a href="/learn_english.md">
+
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg "a title")
+
+</a>
+
+
+<a href="/learn_spanish.md">
+
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppXl-ZIvI_UyoPxBO2DFLRhqXRJivQZncCEX8ItjZPU8Wj0byj1JWtS069PU&s=10 "a title")
+
+</a>
+
+
+
+</div>
